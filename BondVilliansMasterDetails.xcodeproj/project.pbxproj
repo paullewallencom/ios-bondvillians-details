@@ -14,6 +14,7 @@
 		747A218C2A366056002ECC47 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 747A218B2A366056002ECC47 /* Assets.xcassets */; };
 		747A218F2A366056002ECC47 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 747A218D2A366056002ECC47 /* LaunchScreen.storyboard */; };
 		747A21972A3661C4002ECC47 /* Villian.swift in Sources */ = {isa = PBXBuildFile; fileRef = 747A21962A3661C4002ECC47 /* Villian.swift */; };
+		747A21992A3666C5002ECC47 /* VillainDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 747A21982A3666C5002ECC47 /* VillainDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		747A218E2A366056002ECC47 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		747A21902A366056002ECC47 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		747A21962A3661C4002ECC47 /* Villian.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Villian.swift; sourceTree = "<group>"; };
+		747A21982A3666C5002ECC47 /* VillainDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VillainDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				747A218B2A366056002ECC47 /* Assets.xcassets */,
 				747A218D2A366056002ECC47 /* LaunchScreen.storyboard */,
 				747A21902A366056002ECC47 /* Info.plist */,
+				747A21982A3666C5002ECC47 /* VillainDetailViewController.swift */,
 			);
 			path = BondVilliansMasterDetails;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			files = (
 				747A21872A366052002ECC47 /* ViewController.swift in Sources */,
 				747A21832A366052002ECC47 /* AppDelegate.swift in Sources */,
+				747A21992A3666C5002ECC47 /* VillainDetailViewController.swift in Sources */,
 				747A21852A366052002ECC47 /* SceneDelegate.swift in Sources */,
 				747A21972A3661C4002ECC47 /* Villian.swift in Sources */,
 			);
